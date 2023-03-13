@@ -2,7 +2,7 @@
 <h1 align ="center"> BEM -VINDO!</h1>
 <p align="center">
  
-
+![site](https://github.com/Vesilva33/Vesilva33/blob/main/Vesilva33%202.png)
   
 ♀️ Olá! Meu nome é Verusca Schimmels,  sou formando em Ciência da Computação pela Universidade Unicarioca Ao longo dos meus estudos universitários, tive a oportunidade de aprender conceitos importantes em programação, algoritmos, estrutura de dados e outras áreas relacionadas à tecnologia da informação. Além disso, participei de projetos acadêmicos que envolveram uma visão prática e experiência em trabalho em equipe.
 Recentemente, adquiri experiência como profissional de suporte Service Desk N1 na wide Digital, onde aprendi a solucionar problemas relacionados a  hardwares, a identificar e resolver problemas de rede, e trabalhar com clientes e usuários para garantir sua satisfação com o serviço. 
