@@ -36,7 +36,4 @@ Recentemente, adquiri experiência como profissional de suporte Service Desk N1 
 
 ## Repositorios importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vesilva33&repo=projeto-inicial-Python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vesilva33&repo=projeto-inicial-Instagram&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vesilva33&repo=projeto-inicial-site&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vesilva33&repo=projeto-site-da-ada&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
